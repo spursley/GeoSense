@@ -6,7 +6,7 @@
 
 Create a new app with the following repository:
 
-    https://github.com/spursley/Res_Dealer_Sales_App.git
+    https://github.com/spursley/GeoSense.git
 
 ## Run Application
 
